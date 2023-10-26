@@ -3,7 +3,7 @@ import random
 import os
 from sys import argv
 
-os.system("")   # Clear the terminal /Users/ivanpedroza/nltk_data
+os.system("")   # Clear the terminal
 
 # Define text formatting codes
 G = '\x1b[0;30;42m'  # Green text
