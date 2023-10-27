@@ -56,7 +56,7 @@ This project is licensed under the [MIT LICENSE](https://github.com/IvanPedroza/
 
 ## Acknowledgments
 
-- This project was inspired by the Wordle puzzle game.
+- This project was inspired by the Wordle puzzle game distributed by the New York Times.
 
 Happy gaming!
 
