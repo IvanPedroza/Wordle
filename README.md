@@ -8,7 +8,7 @@ These instructions will help you run the Wordle puzzle game on your local machin
 
 ### Prerequisites
 
-You need to have Python installed on your machine to run this program. You can download and install Python from the [official Python website](https://www.python.org/downloads/).
+You need to have Python installed on your machine to run this program. You can download and install Python from the [official Python website](https://www.python.org/downloads/). Python comes pre-installed on macOS; however, Apple stopped including a Python install with macOS when it released Catalina and so now, if you want to use Python on your Mac, you will need to install it yourself
 
 ### Installation
 
